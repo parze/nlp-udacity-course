@@ -18,5 +18,6 @@ dependencies:
 - graphviz=2.40.1
 - beautifulsoup4=4.6.0
 - keras=2.1.6
+- numpy=1.14.5
 - pip:
   - udacity-pa>=0.2
